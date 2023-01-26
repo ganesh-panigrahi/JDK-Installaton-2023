@@ -21,10 +21,10 @@ then the solution is to type `sudo apt --fix-broken install` and then unpack deb
 2. `ls /usr/lib/jvm` : to check jdk installation. <br />
 ![5.](5.png "jdk") <br />
 
-3. `sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-19/bin/java 1` : to install java and then check the installatin of java by typing `java -version`.<br />
+3. `sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-19/bin/java 1` : to install java and then check the installation of java by typing `java -version`.<br />
 ![6.](java.png "java") <br />
 
-4. `sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-19/bin/javac 1` : to install javac and then check the installatin of javac by typing `javac -version`.<br />
+4. `sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-19/bin/javac 1` : to install javac and then check the installation of javac by typing `javac -version`.<br />
 ![7.](7.png "javac") <br />
 
 5. `sudo update-alternatives --config java` : to update and then copy this `/usr/lib/jvm/jdk-19/bin/java` which will be used further. <br />
