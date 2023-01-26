@@ -6,8 +6,7 @@
 Click on Java Downloads <br />
 
 ![2.](oracle.png "Oracle Downloads page") <br />
-Click on the link next to x64 Debian Package for Ubuntu. <br />
-Your JDK will be downloaded. <br />
+Click on the link next to x64 Debian Package for Ubuntu. Your JDK will be downloaded. <br />
 
 
 ## 2. Installing process in terminal
